@@ -1,0 +1,41 @@
+html,body{
+    margin: 0;
+    background-color: #2F4F30;
+    font-family: sans-serif;
+}
+.header {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 25px;
+    font-size: 25px;
+}
+.row {
+    margin-top: 20px;
+}
+.col {
+    text-align: center;
+}
+.btn {
+    background-color: #1f3bdb;
+    border: none;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+.container {
+    padding-left: 10px;
+    color: white;
+    font-size: 12px;
+}
+.carta {
+    position: relative;
+    width: 150px;
+    left: 100px;
+    margin-left: -75px;
+}
+.compu, .jugador{
+    height: 240px;
+}
